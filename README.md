@@ -1,9 +1,9 @@
 # beawake
 
-A tiny macOS command-line tool that stops your Mac from falling asleep. 
-It works kind of like Apple's own `caffeinate`, using a native IOKit power assertion under the hood. 
-Run it, leave it be, and your screen won't dim or lock due to inactivity. 
-Hit `Ctrl+C` whenever to stop this and your Mac will go back to sleeping normally.
+A tiny macOS command-line tool that stops your Mac from falling asleep.
+It works kind of like Apple's own `caffeinate`, using a native IOKit power assertion under the hood.
+
+Run it, leave it be, and your screen won't dim or lock due to inactivity. Hit `Ctrl+C` whenever to stop this and your Mac will go back to sleeping normally.
 
 ## Requirements
 
